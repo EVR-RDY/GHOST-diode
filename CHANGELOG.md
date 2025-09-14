@@ -1,15 +1,13 @@
 # Changelog
 
-All notable changes to this project will be documented in this file.
+All notable changes to this project are documented here.  
+All versions are licensed under **CERN OHL v2-S**.
 
-The format follows **SemVer** for versions and a **track suffix** where helpful:
-
-- `-poc` for PoC track releases (v0.x)
-- No suffix for product releases (v1.x and beyond)
+---
 
 ## [v0.1.0-poc] - 2025-09-14
 ### Added
-- Initial PoC documentation: overview, architecture, build guide, validation, safety/risk, roadmap.
-- BOM draft, wiring notes, loopback/negative tests.
-- Validation scripts for basic outbound-only checks.
-- CERN OHL v2-P licence and open hardware framing.
+- Initial Proof-of-Concept release under CERN OHL v2-S.
+- Documentation: overview, architecture, build guide, validation, safety/risk, roadmap.
+- BOM draft, wiring notes, loopback/negative test procedures.
+- Validation scripts for basic one-way tests.
