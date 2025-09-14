@@ -1,0 +1,6 @@
+Category,Item,Model/Link,Qty,Notes
+Media Converter,MMF 1000BASE-SX,TP-Link MC200CM or similar,2,SC or LC variant
+Fiber,OM1/OM2 Duplex,SC-SC or LC-LC,1,Use only one strand (Tx→Rx)
+Switch,Unmanaged/Managed,Netgear GS305E or similar,1,Secure-side aggregation
+Power,Adapters,Included,3,As needed
+Mounting,DIN rail/enclosure,Generic,1,Optional
