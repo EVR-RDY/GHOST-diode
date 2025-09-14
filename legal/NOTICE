@@ -1,4 +1,8 @@
 EVR:RDY — Ghost Diode
-Maintainer: (add contact)
-This repository contains open hardware documentation and, in the future, design files.
-Licensed under CERN OHL v2-P. See LICENSE.
+Maintainer: Erin Burns, OPS@EVRRDY.com
+
+This repository and all its contents (including documentation, BOMs, wiring diagrams, 
+validation scripts, and future design files) are licensed under the 
+CERN Open Hardware Licence v2-S (Strongly Reciprocal).
+
+For details, see the LICENSE file.
