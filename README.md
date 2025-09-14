@@ -3,9 +3,11 @@
 **Open-source hardware project** for a low-cost, one-way data path (Tx→Rx only) aimed at OT/ICS environments.  
 Currently a **hardware-first PoC** built from commodity fiber media converters — with a clear roadmap to a **dedicated open hardware product**.
 
-> **License:** CERN Open Hardware Licence v2 — Permissive (CERN OHL v2-P). See `LICENSE`.
->
-> **Repo status:** PoC-focused, with reserved space for future firmware/software when (and if) needed.
+## 📜 License
+This repository is licensed under the **CERN Open Hardware Licence v2-S (Strongly Reciprocal)**.  
+Any modifications or redistributions **must also be released under the same licence**, ensuring Ghost Diode remains free and open hardware for the community.
+
+See the full text in [LICENSE](./LICENSE).
 
 ---
 
